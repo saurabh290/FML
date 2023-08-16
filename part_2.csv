@@ -1,0 +1,7 @@
+﻿Name,Value
+epochs,200
+batch_size,64
+learning_rate,0.002
+num_layers,4
+num_units,100
+batch normalization,
